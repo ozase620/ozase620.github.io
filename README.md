@@ -1,2 +1,1 @@
-# ozase620.github.io
-My first website
+  ozase620
